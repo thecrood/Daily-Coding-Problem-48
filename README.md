@@ -15,8 +15,8 @@ And the following inorder traversal:
 
 You should return the following tree:
 
-    a
-   / \
-  b   c
- / \ / \
-d  e f  g
+-    a
+-   / \
+-  b   c
+- / \ / \
+-d  e f  g
